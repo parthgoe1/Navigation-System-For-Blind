@@ -5,4 +5,4 @@ Download the model from https://drive.google.com/file/d/1IgLws2prZBGY_yopd_FIcvA
 </br>
 SixthDetection.ipynb is without the GPS and is self sufficient Python file.</br>
 </br>
-SeventhDetection.ipynb has GPS included and needs
+SeventhDetection.ipynb has GPS included and needs Location.ipynb and url.txt to run.
