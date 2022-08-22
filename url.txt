@@ -1,0 +1,10 @@
+http://nominatim.openstreetmap.org/search?q=135+pilkington+avenue,+birmingham&format=json&polygon=1&addressdetails=1
+
+http://nominatim.openstreetmap.org/search?q=Takshila+Complex,+Aroeshir+Dalal+Avenue,+Kharagpur,+Kharagpur-I,+Paschim+Medinipur,+West+Bengal,+721301,+India&format=json&polygon=1&addressdetails=1
+
+Takshila Complex, Aroeshir Dalal Avenue, Kharagpur, Kharagpur-I, Paschim Medinipur, West Bengal, 721301, India
+
+http://nominatim.openstreetmap.org/search?q=VS+Hall+of+Residence,+Scholars'+Avenue,+Kharagpur,+Kharagpur-I,+Paschim+Medinipur,+West+Bengal,+721301,+India&format=json&polygon=1&addressdetails=1
+
+
+VS Hall of Residence, Scholars' Avenue, Kharagpur, Kharagpur-I, Paschim Medinipur, West Bengal, 721301, India
